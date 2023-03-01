@@ -1,2 +1,2 @@
 # CA-3
-assignment
+I followed the directions. I created a new branch, and made a commit to the new branch in the file BranchUpdate.txt
